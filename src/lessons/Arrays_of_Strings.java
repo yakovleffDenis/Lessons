@@ -12,5 +12,10 @@ public class Arrays_of_Strings {
         text[2] = "Java";
         System.out.println(text[0]+" "+text[1]);
         System.out.println(text[2]);
+        System.out.println();
+
+        for (int i = 0; i<text.length; i++){
+            System.out.println(text[i]);
+        }
     }
 }
