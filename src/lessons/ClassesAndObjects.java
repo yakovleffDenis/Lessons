@@ -20,7 +20,7 @@ class Person {
 
     void speak() {
         for (int i = 0; i < 3; i++) {
-            System.out.println("My name is" + name + "," + " I'm " + age + " years old");
+            System.out.println("My name is " + name + "," + " I'm " + age + " years old");
         }
         System.out.println();
     }
