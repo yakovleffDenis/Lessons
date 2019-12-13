@@ -17,5 +17,10 @@ public class Arrays_of_Strings {
         for (int i = 0; i<text.length; i++){
             System.out.println(text[i]);
         }
+        System.out.println();
+
+        for (String x:text){
+            System.out.println(x);
+        }
     }
 }
