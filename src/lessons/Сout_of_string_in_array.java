@@ -1,6 +1,6 @@
 package lessons;
 
-public class cout_of_string_in_array {
+public class Сout_of_string_in_array {
     public static void main(String[] args) {
         int[][] matrice = {{1, 2, 3, 4, 5},
                 {4},
