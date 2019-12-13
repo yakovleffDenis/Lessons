@@ -6,10 +6,9 @@ public class test {
                 {4},
                 {7, 8, 9, 0}};
         for (int i = 0; i < matrice.length; i++) {
-            //for (int j=0; j<matrice[i].length;j++){
-            //System.out.println("Количество элементов в "+ (i+1) +"-строке " + matrice[i].length);
+                  //System.out.println("Количество элементов в "+ (i+1) +"-строке " + matrice[i].length);
             System.out.println(String.format("Количество элементов в %d-строке %d", i+1, matrice[i].length));
+            }
         //}
-        }
     }
 }
